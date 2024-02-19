@@ -1,0 +1,6 @@
+{
+    "imports": {
+        "@plivo-cx/service": "http://localhost:3004/src/spa.ts",
+        "@plivo-cx/engage": "http://localhost:3001/src/spa.ts"
+    }
+}
